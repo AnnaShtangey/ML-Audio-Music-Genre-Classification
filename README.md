@@ -1,5 +1,5 @@
 # ML-Audio-Music-Genre-Classification
-# ML Auduo: Классификация музыкальных жанров.
+# ML Audio: Классификация музыкальных жанров.
 Задача: определить музыкальный жанр, анализируя аудио. 
 
 Датасет: https://www.kaggle.com/andradaolteanu/gtzan-dataset-music-genre-classification 
